@@ -73,18 +73,28 @@ plt.show()
 ## Output:
 
 DATA HEAD:
+
+
 <img width="1631" height="258" alt="image" src="https://github.com/user-attachments/assets/4c87bea6-b2cb-4a9e-bb16-82970e760844" />
 
 DATASET INFO:
+
+
 <img width="611" height="598" alt="image" src="https://github.com/user-attachments/assets/74bdf569-a9c9-495f-b897-b350c33b845b" />
 
 DATASET TRANSFORMED HEAD:
+
+
 <img width="1618" height="250" alt="image" src="https://github.com/user-attachments/assets/8b39999c-79a2-4113-ad35-5883a9fa09c5" />
 
 ACCURACY:
+
+
 <img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/579c5094-36de-48db-96ae-5501c38cf969" />
 
 DATA PREDICTION:
+
+
 <img width="1033" height="619" alt="image" src="https://github.com/user-attachments/assets/9ba48f3b-6374-4e9a-ae83-0488ac62e43e" />
 
 
